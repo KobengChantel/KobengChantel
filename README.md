@@ -49,5 +49,6 @@ Other Tools & Practices:
 📫 Connect With Me
 
 Email: kobengchantel@gmail.com
+
 **LinkedIn: / Link coming soon! /
 **Portfolio / Website coming soon! /

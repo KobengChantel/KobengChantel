@@ -1,6 +1,6 @@
 Hi there 👋, I'm Kobeng Chantel
 
-🚀 Full-Stack Developer
+🚀 Aspiring Java Full-Stack Developer
 
 I'm a passionate Full-Stack Developer based in Gauteng, South Africa, with hands-on experience building scalable and maintainable web applications. I enjoy working across the stack — from designing robust backend APIs to creating smooth, responsive front-end experiences.
 
@@ -10,6 +10,8 @@ I'm a passionate Full-Stack Developer based in Gauteng, South Africa, with hands
 - 🛠️ Passionate about solving real-world problems through clean and maintainable code
 - 🚀 Focused on delivering user-friendly and performant applications
 - 📈 Always learning new technologies and improving my craft
+
+_________________________________________________________________________________________________________________________
 
 🛠️ Tech Stack
 
@@ -31,6 +33,8 @@ Other Tools & Practices:
 - MVC Architecture, Agile / Scrum
 - Clean Code Principles
 
+ _________________________________________________________________________________________________________________________
+
 📂 Featured Projects 
 (More projects coming soon — currently building and refining)
 
@@ -44,11 +48,12 @@ Other Tools & Practices:
   Order processing and management simulation project.  
 
 - **MERN Stack Projects** – MongoDB, Express.js, React, Node.js  
-  Full-stack applications including blogs, social media clones, and task managers. 
+  Full-stack applications including blogs, social media clones, and task managers.
+  
+_________________________________________________________________________________________________________________________
 
 📫 Connect With Me
 
-Email: kobengchantel@gmail.com
-
-**LinkedIn: / Link coming soon! /
-**Portfolio / Website coming soon! /
+** Email: kobengchantel@gmail.com
+** LinkedIn: / Link coming soon! /
+** Portfolio / Website coming soon! /

@@ -54,6 +54,7 @@ ________________________________________________________________________________
 
 📫 Connect With Me
 
-**📧 Email:** kobengchantel@gmail.com
-**💼 LinkedIn:**  Link coming soon! 
-**🌐 Portfolio / Website:** Coming soon
+- **📧 Email:** kobengchantel@gmail.com
+- **💼 LinkedIn:** Coming soon
+- **🌐 Portfolio / Website:** Coming soon
+

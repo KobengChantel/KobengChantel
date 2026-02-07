@@ -48,7 +48,7 @@ Other Tools & Practices:
   Order processing and management simulation project.  
 
 - **MERN Stack Projects** – MongoDB, Express.js, React, Node.js  
-  Full-stack applications including blogs, social media clones, and task managers.
+  Full-stack applications including blogs, social media clones, and task managers
   
 _________________________________________________________________________________________________________________________
 
